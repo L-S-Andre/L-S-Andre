@@ -1,7 +1,14 @@
-<h1 align="center">Olá 👋, Sou Lucas André</h1>
-- 🌱 Atualmente estudo SQL
+# Olá 😁, Sou Lucas André!
+🔭 Em rumo a analise dados<br>🌱 Estudando SQL e Power BI <br>🤝 Qualquer dica de estudos é bem-vinda!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ls-andre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ls-andre/" height="30" width="40" /></a>
-</p>
+
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ls-andre/) 
+
+# Tech Stack:
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MrSantoz&icon=0&color=4)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
