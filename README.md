@@ -8,7 +8,6 @@
 ### Tech Stack:
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
----
-[![](https://visitcount.itsvg.in/api?id=MrSantoz&icon=0&color=4)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
