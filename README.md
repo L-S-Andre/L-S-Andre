@@ -1,4 +1,4 @@
-# Olá! 😁 Sou Lucas André
+# Olá! 😁 Sou Lucas
 🔭 Em rumo a analise dados<br>🌱 Estudando SQL e Power BI <br>🤝 Qualquer dica de estudos é bem-vinda!
 
 
